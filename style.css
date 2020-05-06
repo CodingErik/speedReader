@@ -1,0 +1,17 @@
+* {
+    /* margin: 0px;
+    padding: 0px; */
+    box-sizing: border-box;
+}
+
+h1 {
+    font-family: fantasy;
+}
+
+div{
+   border: 1px solid red;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   height: 500px;
+}
